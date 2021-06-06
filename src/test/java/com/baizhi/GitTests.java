@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Git2010TestApplicationTests {
+class GitTests {
 
     @Test
     void contextLoads() {
@@ -14,8 +14,6 @@ class Git2010TestApplicationTests {
 
     public static void main(String[] args) {
         System.out.println("-----");
-        int a=20;
-        int b=30;
     }
 
 }
